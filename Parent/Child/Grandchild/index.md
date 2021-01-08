@@ -16,3 +16,5 @@ permalink: gchild
 * ![This is an image](./logical.svg)
 * [Grandparent perma](parent)
 * [Parent perma](child)
+
+* [Other](other)
