@@ -6,13 +6,13 @@ permalink: gchild
 
 # Grandchild
 
-* [Top](../../../index.md)
-* [Grandparent](../../index.md)
-* [Parent](../index.md)
+* [Top](../../../index)
+* [Grandparent](../../index)
+* [Parent](../index)
 
-* [Top abs](/index.md)
-* [Grandparent abs](/Parent/index.md)
-* [Parent abs](/Parent/Child/index.md)
-
-*[Grandparent perma](parent)
-*[Parent perma](child)
+* [Top abs](/index)
+* [Grandparent abs](/Parent/index)
+* [Parent abs](/Parent/Child/index)
+* ![This is an image](./logical.svg)
+* [Grandparent perma](parent)
+* [Parent perma](child)

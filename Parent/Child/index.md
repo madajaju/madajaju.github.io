@@ -14,3 +14,5 @@ permalink: child
 * [Grandparent abs](/Parent/index.md)
 * [Child abs](/Parent/Child/Grandchild/index.md)
 
+* ![This is an image](Grandchild/logical.svg)
+* ![This is an image](./Grandchild/logical.svg)
