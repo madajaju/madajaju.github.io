@@ -17,4 +17,4 @@ permalink: gchild
 * [Grandparent perma](parent)
 * [Parent perma](child)
 
-* [Other](other)
+* [Other](/gchild/other)
