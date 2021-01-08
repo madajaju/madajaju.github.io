@@ -1,3 +1,9 @@
+---
+layout: post
+title: Child
+permalink: child
+---
+
 # Child
 
 * [Top](../../index.md)

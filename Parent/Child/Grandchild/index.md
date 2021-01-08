@@ -1,3 +1,9 @@
+---
+layout: post
+title: Grand Child
+permalink: gchild
+---
+
 # Grandchild
 
 * [Top](../../../index.md)
