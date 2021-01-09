@@ -1,159 +1,90 @@
----
-layout: default
-title: Package edgemere
-permalink: package--edgemere
----
-# edgemere
+### Top
+* [edgemere](./edgemere/index.md)
 
-Description needs to be written
+### Actors
+* [All Actors](actors)
+* [Actor](actor-actor)
+* [ApplicationDeveloper](actor-applicationdeveloper)
+* [ChiefDataOfficer](actor-cdo)
+* [DataAnalyst](actor-analyst)
+* [DataEngineer](actor-dataengineer)
+* [DataScientist](actor-datascientist)
+* [DataSteward](actor-datasteward)
+* [DevOpsEngineer](actor-devops)
+* [ITOperations](actor-itops)
+* [StackDeveloper](actor-stackdev)
 
-
-
-## Use Cases
-
-
-
-![UseCase Diagram](./usecases.svg)
-
-## Users
-
-
-![User Interaction](./userinteraction.svg)
-
-## Interface
-The subsystem has a REST, CLI, WebSocket, and Web interface. Use Cases and Scenarios can use any or all
-of the interfaces to perform the work that needs to be completed. The following  diagram shows how
-users interact with the system.
-
-![Scenario Mappings Diagram](./scenariomapping.svg)
-
-
-
-## Logical Artifacts
-The Data Model for the  edgemere shows how the different objects and classes of object interact
-and their structure.
-
-![Sub Package Diagram](./subpackage.svg)
-
-### Sub Packages
-
+ 
+### Packages 
 * [Application Management Layer](package--edgemere-aml)
+  * [AI ML Services](package--edgemere-aml-ams)
+  * [Analytics Services](package--edgemere-aml-as)
+  * [Developer Services](package--edgemere-aml-ds)
+  * [Workflow Services](package--edgemere-aml-ws)
 * [Common Physical Layer](package--edgemere-cpl)
+  * [Device Agent](package--edgemere-cpl-da)
+  * [Device Manager](package--edgemere-cpl-dm)
+  * [Telemetry Aggregator](package--edgemere-cpl-ta)
+  * [Telemetry Consumer](package--edgemere-cpl-tc)
+  * [Telemetry Producer](package--edgemere-cpl-tp)
 * [Distributed Information Management Layer](package--edgemere-diml)
+  * [Common Data Service](package--edgemere-diml-cds)
+    * [Ingress Services](package--edgemere-diml-cds-ingress)
+    * [Insite Services](package--edgemere-diml-cds-insite)
+    * [Storage Services](package--edgemere-diml-cds-storage)
+    * [Transform Services](package--edgemere-diml-cds-transform)
+  * [Data Definition Framework](package--edgemere-diml-ddf)
+    * [Blue Print Management](package--edgemere-diml-ddf-bpm)
+    * [Data Adaptor Framework](package--edgemere-diml-ddf-daf)
+    * [Data Flow](package--edgemere-diml-ddf-df)
+    * [Data Repository](package--edgemere-diml-ddf-dr)
+  * [Data Management Layer](package--edgemere-diml-dml)
+    * [Data Controller](package--edgemere-diml-dml-dc)
+    * [Data Orchestrator](package--edgemere-diml-dml-do)
+    * [Federated Meta Data Management](package--edgemere-diml-dml-fmdm)
+    * [Governance Engine](package--edgemere-diml-dml-ge)
 * [Identity Aspect](package--edgemere-ia)
 * [Security Aspect](package--edgemere-sa)
+  * [Policy Engine](package--edgemere-sa-pe)
 * [Service Management Layer](package--edgemere-sml)
+  * [Cloud Broker](package--edgemere-sml-cb)
+  * [Environment Management](package--edgemere-sml-em)
+  * [Provision Engine](package--edgemere-sml-pe)
+  * [Service Controller](package--edgemere-sml-sc)
+  * [Service Orchestrator](package--edgemere-sml-so)
+  * [Service Repository](package--edgemere-sml-sr)
 * [Software Defined Infrastructure](package--edgemere-sdi)
+  * [Infrastructure Orchestrator](package--edgemere-sdi-io)
 
-
-![Logical Diagram](./logical.svg)
-
-### Classes
-
-
-
-## Activities and Flows
-The edgemere subsystem provides the following activities and flows.
-
-### Messages Handled
-| Message | Action | Description |
-|---|---|---|
-
-|    |    |    |
-
-### Messages Sent
-
-TBD
-
-## Deployment Architecture
-
-This subsystem is deployed using micro-services as shown in the diagram below. The 'micro' module is
-used to implement the micro-services in the system.
-The subsystem also has an CLI, REST and Web Interface exposed through a sailajs application. The sailsjs
-application will interface with the micro-services and can monitor and drive work-flows through the mesh of
-micro-services.
-
-![Deployment Image](./deployment.svg)
-
-## Physical Architecture
-
-The edgemere subsystem is is physically laid out on a hybrid cloud infrastructure. Each microservice is shown
-how they connect to each other. All of the micro-services communicate to each other and the main app through a
-REST interface. A CLI, REST or Web interface for the app is how other subsystems or actors interact. Requests are
-forwarded to micro-services through the REST interface of each micro-service.
-
-![Physical Diagram](./physical.svg)
-
-## Micro-Services
-These are the micro-services for the subsystem. The combination of the micro-services help implement
-the subsystem's logic.
-
-### local
-Detail information for the [local environment](environment--edgemere-local)
-can be found [here](environment--edgemere-local)
-
-Services in the local environment
-
-* admin : edgemere:latest
-* pubsub : redis
-* web : edgemere_web
-* doc : edgemere_doc
-
-### dev
-Detail information for the [dev environment](environment--edgemere-dev)
-can be found [here](environment--edgemere-dev)
-
-Services in the dev environment
-
-* admin : edgemere:latest
-* aml : aml:latest
-* cpl : cpl:latest
-* diml : diml:latest
-* ia : ia:latest
-* sa : sa:latest
-* sml : sml:latest
-* sdi : sdi:latest
-* pubsub : redis
-* web : edgemere_web
-* doc : edgemere_doc
-
-### test
-Detail information for the [test environment](environment--edgemere-test)
-can be found [here](environment--edgemere-test)
-
-Services in the test environment
-
-* admin : edgemere:latest
-* aml : aml:latest
-* cpl : cpl:latest
-* diml : diml:latest
-* ia : ia:latest
-* sa : sa:latest
-* sml : sml:latest
-* sdi : sdi:latest
-* pubsub : redis
-* web : edgemere_web
-* doc : edgemere_doc
-
-### prod
-Detail information for the [prod environment](environment--edgemere-prod)
-can be found [here](environment--edgemere-prod)
-
-Services in the prod environment
-
-* admin : edgemere:latest
-* aml : aml:latest
-* cpl : cpl:latest
-* diml : diml:latest
-* ia : ia:latest
-* sa : sa:latest
-* sml : sml:latest
-* sdi : sdi:latest
-* pubsub : redis
-* web : edgemere_web
-* doc : edgemere_doc
-
-
-## Interface Details
+   
+### Use Cases  
+* [Manage AI Models](usecase-ManageAIModels)
+* [Manage Applications](usecase-ManageApplications)
+* [Manage Workloads](usecase-ManageWorkloads)
+* [Manage Data Center](usecase-ManageDataCenter)
+* [Manage Infrastructure](usecase-ManageInfrastructure)
+* [Manage Data](usecase-ManageData)
+* [Manage Data Adaptors](usecase-ManageDataAdaptors)
+* [Manage Data Blue Prints](usecase-ManageDataBluePrints)
+* [Manage Data Pipeline](usecase-ManageDataPipeline)
+* [Manage Data Procedures](usecase-ManageDataProcedures)
+* [Manage Meta Data](usecase-ManageMetaData)
+* [Manage Data Instances](usecase-ManageDataInstances)
+* [Manage Data Governance](usecase-ManageDataGovernance)
+* [Manage Data Policies](usecase-ManageDataPolicies)
+* [Manage Data Sources](usecase-ManageDataSources)
+* [Manage Data Strategy](usecase-ManageDataStrategy)
+* [Find Resources](usecase-FindResources)
+* [ManageBilling](usecase-ManageBilling)
+* [ManageCostModel](usecase-ManageCostModel)
+* [Manage Multi Cloud](usecase-ManageMultiCloud)
+* [Map Assets to Cloud](usecase-MapAssetstoCloud)
+* [Map Services to Resources](usecase-MapServicestoResources)
+* [Manage Environment](usecase-ManageEnvironment)
+* [Manage Stacks](usecase-ManageStacks)
+* [Manage Assets](usecase-ManageAssets)
+* [Manage Clouds](usecase-ManageClouds)
+* [Manage Services](usecase-ManageServices)
+* [Manage Resources](usecase-ManageResources)
 
 
