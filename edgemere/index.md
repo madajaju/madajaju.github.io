@@ -56,10 +56,10 @@ and their structure.
 The edgemere subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

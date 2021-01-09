@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment dev
-permalink: environment-.edgemere/cpl/da-dev
+permalink: environment--edgemere/cpl/da-dev
 ---
 
 ### dev

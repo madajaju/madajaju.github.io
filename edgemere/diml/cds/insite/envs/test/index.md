@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment test
-permalink: environment-.edgemere/diml/cds/insite-test
+permalink: environment--edgemere/diml/cds/insite-test
 ---
 
 ### test

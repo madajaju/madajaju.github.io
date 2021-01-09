@@ -52,13 +52,13 @@ and their structure.
 The Telemetry Consumer subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 | adevice.stats | /tc/report |  |
 | device.stats | /ta/report |  |
 | device.stats | /tc/report |  |
 
+|    |    |    |
 
 ### Messages Sent
 

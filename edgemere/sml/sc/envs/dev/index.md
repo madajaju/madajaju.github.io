@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment dev
-permalink: environment-.edgemere/sml/sc-dev
+permalink: environment--edgemere/sml/sc-dev
 ---
 
 ### dev

@@ -64,25 +64,24 @@ and their structure.
 
 ### Classes
 
-* [Device](class-/edgemere/cpl/Device)
-* [AggregatedDevice](class-/edgemere/cpl/AggregatedDevice)
-* [Metric](class-/edgemere/cpl/Metric)
-* [MetricAttribute](class-/edgemere/cpl/MetricAttribute)
-* [MetricComposite](class-/edgemere/cpl/MetricComposite)
-* [MetricConsumeable](class-/edgemere/cpl/MetricConsumeable)
-* [PhysicalProfile](class-/edgemere/cpl/PhysicalProfile)
-* [Hardware](class-/edgemere/cpl/Hardware)
-* [ComputeHardware](class-/edgemere/cpl/ComputeHardware)
-* [NetworkHardware](class-/edgemere/cpl/NetworkHardware)
-* [StorageHardware](class-/edgemere/cpl/StorageHardware)
-* [AcceleratorHardware](class-/edgemere/cpl/AcceleratorHardware)
+* [Device](class-Device)
+* [AggregatedDevice](class-AggregatedDevice)
+* [Metric](class-Metric)
+* [MetricAttribute](class-MetricAttribute)
+* [MetricComposite](class-MetricComposite)
+* [MetricConsumeable](class-MetricConsumeable)
+* [PhysicalProfile](class-PhysicalProfile)
+* [Hardware](class-Hardware)
+* [ComputeHardware](class-ComputeHardware)
+* [NetworkHardware](class-NetworkHardware)
+* [StorageHardware](class-StorageHardware)
+* [AcceleratorHardware](class-AcceleratorHardware)
 
 
 ## Activities and Flows
 The Common Physical Layer subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 | request.needed | Custom Action |  |
@@ -90,6 +89,7 @@ The Common Physical Layer subsystem provides the following activities and flows.
 | reservation.rejected | Custom Action |  |
 | resource.provisioning | /cpl/provision |  |
 
+|    |    |    |
 
 ### Messages Sent
 

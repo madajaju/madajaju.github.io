@@ -65,27 +65,27 @@ and their structure.
 
 ### Classes
 
-* [DataAdaptor](class-/edgemere/diml/ddf/DataAdaptor)
-* [DataAdaptorInstance](class-/edgemere/diml/ddf/DataAdaptorInstance)
-* [DataAdaptorTemplate](class-/edgemere/diml/ddf/DataAdaptorTemplate)
-* [DataBluePrint](class-/edgemere/diml/ddf/DataBluePrint)
-* [DataBluePrintInstance](class-/edgemere/diml/ddf/DataBluePrintInstance)
-* [DataFlow](class-/edgemere/diml/ddf/DataFlow)
-* [DataFlowInstance](class-/edgemere/diml/ddf/DataFlowInstance)
-* [DataFlowTemplate](class-/edgemere/diml/ddf/DataFlowTemplate)
-* [DataPipeline](class-/edgemere/diml/ddf/DataPipeline)
-* [DataProcedure](class-/edgemere/diml/ddf/DataProcedure)
-* [DataSource](class-/edgemere/diml/ddf/DataSource)
+* [DataAdaptor](class-DataAdaptor)
+* [DataAdaptorInstance](class-DataAdaptorInstance)
+* [DataAdaptorTemplate](class-DataAdaptorTemplate)
+* [DataBluePrint](class-DataBluePrint)
+* [DataBluePrintInstance](class-DataBluePrintInstance)
+* [DataFlow](class-DataFlow)
+* [DataFlowInstance](class-DataFlowInstance)
+* [DataFlowTemplate](class-DataFlowTemplate)
+* [DataPipeline](class-DataPipeline)
+* [DataProcedure](class-DataProcedure)
+* [DataSource](class-DataSource)
 
 
 ## Activities and Flows
 The Data Definition Framework subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

@@ -59,10 +59,10 @@ and their structure.
 The Common Data Service subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

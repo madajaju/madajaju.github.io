@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment prod
-permalink: environment-.edgemere/diml/dml/dc-prod
+permalink: environment--edgemere/diml/dml/dc-prod
 ---
 
 ### prod

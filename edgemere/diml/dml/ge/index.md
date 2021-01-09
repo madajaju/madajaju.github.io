@@ -49,10 +49,10 @@ and their structure.
 The Governance Engine subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

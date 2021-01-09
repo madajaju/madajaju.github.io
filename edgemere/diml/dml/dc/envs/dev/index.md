@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment dev
-permalink: environment-.edgemere/diml/dml/dc-dev
+permalink: environment--edgemere/diml/dml/dc-dev
 ---
 
 ### dev

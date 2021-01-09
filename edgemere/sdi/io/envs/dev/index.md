@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment dev
-permalink: environment-.edgemere/sdi/io-dev
+permalink: environment--edgemere/sdi/io-dev
 ---
 
 ### dev

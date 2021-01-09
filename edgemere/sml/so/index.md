@@ -51,19 +51,19 @@ and their structure.
 
 ### Classes
 
-* [ServiceInstance](class-/edgemere/sml/so/ServiceInstance)
-* [StackInstance](class-/edgemere/sml/so/StackInstance)
+* [ServiceInstance](class-ServiceInstance)
+* [StackInstance](class-StackInstance)
 
 
 ## Activities and Flows
 The Service Orchestrator subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 | datareference.provisioned | /sml/so/servicelet/assignData |  |
 
+|    |    |    |
 
 ### Messages Sent
 

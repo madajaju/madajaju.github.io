@@ -52,11 +52,11 @@ and their structure.
 The Device Agent subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 | service.started | /da/service/register |  |
 
+|    |    |    |
 
 ### Messages Sent
 

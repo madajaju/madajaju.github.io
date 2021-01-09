@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment dev
-permalink: environment-.edgemere/diml/cds/storage-dev
+permalink: environment--edgemere/diml/cds/storage-dev
 ---
 
 ### dev

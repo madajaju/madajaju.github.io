@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment test
-permalink: environment-.edgemere/cpl/tp-test
+permalink: environment--edgemere/cpl/tp-test
 ---
 
 ### test

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment test
-permalink: environment-.edgemere/sml/sr-test
+permalink: environment--edgemere/sml/sr-test
 ---
 
 ### test

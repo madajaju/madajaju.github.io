@@ -51,26 +51,26 @@ and their structure.
 
 ### Classes
 
-* [AcceleratorResource](class-/edgemere/sdi/AcceleratorResource)
-* [Cloud](class-/edgemere/sdi/Cloud)
-* [ComputeResource](class-/edgemere/sdi/ComputeResource)
-* [NetworkResource](class-/edgemere/sdi/NetworkResource)
-* [Request](class-/edgemere/sdi/Request)
-* [Reservation](class-/edgemere/sdi/Reservation)
-* [Resource](class-/edgemere/sdi/Resource)
-* [StorageResource](class-/edgemere/sdi/StorageResource)
+* [AcceleratorResource](class-AcceleratorResource)
+* [Cloud](class-Cloud)
+* [ComputeResource](class-ComputeResource)
+* [NetworkResource](class-NetworkResource)
+* [Request](class-Request)
+* [Reservation](class-Reservation)
+* [Resource](class-Resource)
+* [StorageResource](class-StorageResource)
 
 
 ## Activities and Flows
 The Software Defined Infrastructure subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 | request.satisfied | Custom Action |  |
 | resource.ready | /sdi/request/reserve |  |
 
+|    |    |    |
 
 ### Messages Sent
 

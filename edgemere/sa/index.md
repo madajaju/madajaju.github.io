@@ -44,18 +44,18 @@ and their structure.
 
 ### Classes
 
-* [Policy](class-/edgemere/sa/Policy)
-* [PolicyCollection](class-/edgemere/sa/PolicyCollection)
+* [Policy](class-Policy)
+* [PolicyCollection](class-PolicyCollection)
 
 
 ## Activities and Flows
 The Security Aspect subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

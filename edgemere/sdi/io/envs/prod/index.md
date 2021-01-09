@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment prod
-permalink: environment-.edgemere/sdi/io-prod
+permalink: environment--edgemere/sdi/io-prod
 ---
 
 ### prod

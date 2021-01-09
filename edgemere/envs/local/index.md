@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment local
-permalink: environment-.edgemere-local
+permalink: environment--edgemere-local
 ---
 
 ### local

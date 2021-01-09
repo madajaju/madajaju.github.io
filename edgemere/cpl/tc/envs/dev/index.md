@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment dev
-permalink: environment-.edgemere/cpl/tc-dev
+permalink: environment--edgemere/cpl/tc-dev
 ---
 
 ### dev

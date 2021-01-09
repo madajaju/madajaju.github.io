@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment test
-permalink: environment-.edgemere/diml/dml-test
+permalink: environment--edgemere/diml/dml-test
 ---
 
 ### test

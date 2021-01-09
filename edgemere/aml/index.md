@@ -71,22 +71,22 @@ and their structure.
 
 ### Classes
 
-* [Application](class-/edgemere/aml/Application)
-* [ApplicationInstance](class-/edgemere/aml/ApplicationInstance)
-* [ApplicationTemplate](class-/edgemere/aml/ApplicationTemplate)
-* [Workload](class-/edgemere/aml/Workload)
-* [WorkloadInstance](class-/edgemere/aml/WorkloadInstance)
-* [WorkloadTemplate](class-/edgemere/aml/WorkloadTemplate)
+* [Application](class-Application)
+* [ApplicationInstance](class-ApplicationInstance)
+* [ApplicationTemplate](class-ApplicationTemplate)
+* [Workload](class-Workload)
+* [WorkloadInstance](class-WorkloadInstance)
+* [WorkloadTemplate](class-WorkloadTemplate)
 
 
 ## Activities and Flows
 The Application Management Layer subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

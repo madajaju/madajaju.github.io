@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment prod
-permalink: environment-.edgemere/cpl/tc-prod
+permalink: environment--edgemere/cpl/tc-prod
 ---
 
 ### prod

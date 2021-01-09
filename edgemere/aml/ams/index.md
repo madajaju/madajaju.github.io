@@ -43,17 +43,17 @@ and their structure.
 
 ### Classes
 
-* [AIModel](class-/edgemere/aml/ams/AIModel)
+* [AIModel](class-AIModel)
 
 
 ## Activities and Flows
 The AI ML Services subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

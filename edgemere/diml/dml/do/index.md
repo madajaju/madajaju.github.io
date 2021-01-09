@@ -52,22 +52,22 @@ and their structure.
 
 ### Classes
 
-* [DataInstance](class-/edgemere/diml/dml/do/DataInstance)
-* [DataRequest](class-/edgemere/diml/dml/do/DataRequest)
-* [DataReservation](class-/edgemere/diml/dml/do/DataReservation)
+* [DataInstance](class-DataInstance)
+* [DataRequest](class-DataRequest)
+* [DataReservation](class-DataReservation)
 
 
 ## Activities and Flows
 The Data Orchestrator subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 | datareference.provisioning | /diml/dml/do/datainstance/create |  |
 | datarequest.needed | /diml/dml/do/reserve |  |
 | datarequest.selected | /diml/dml/do/evaluate |  |
 
+|    |    |    |
 
 ### Messages Sent
 

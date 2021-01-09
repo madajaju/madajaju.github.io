@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment test
-permalink: environment-.edgemere/aml/ws-test
+permalink: environment--edgemere/aml/ws-test
 ---
 
 ### test

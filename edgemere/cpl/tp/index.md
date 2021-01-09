@@ -52,10 +52,10 @@ and their structure.
 The Telemetry Producer subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

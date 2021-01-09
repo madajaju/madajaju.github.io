@@ -45,18 +45,18 @@ and their structure.
 
 ### Classes
 
-* [Agent](class-/edgemere/cpl/dm/Agent)
+* [Agent](class-Agent)
 
 
 ## Activities and Flows
 The Device Manager subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 | agent.started | /dm/agent/register |  |
 
+|    |    |    |
 
 ### Messages Sent
 

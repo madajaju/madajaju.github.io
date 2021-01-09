@@ -53,17 +53,17 @@ and their structure.
 
 ### Classes
 
-* [Environment](class-/edgemere/sml/em/Environment)
+* [Environment](class-Environment)
 
 
 ## Activities and Flows
 The Environment Management subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

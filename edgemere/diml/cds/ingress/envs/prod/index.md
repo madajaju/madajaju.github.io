@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment prod
-permalink: environment-.edgemere/diml/cds/ingress-prod
+permalink: environment--edgemere/diml/cds/ingress-prod
 ---
 
 ### prod

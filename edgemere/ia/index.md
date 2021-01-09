@@ -43,19 +43,19 @@ and their structure.
 
 ### Classes
 
-* [Group](class-/edgemere/ia/Group)
-* [Identity](class-/edgemere/ia/Identity)
-* [User](class-/edgemere/ia/User)
+* [Group](class-Group)
+* [Identity](class-Identity)
+* [User](class-User)
 
 
 ## Activities and Flows
 The Identity Aspect subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

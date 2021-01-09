@@ -53,10 +53,10 @@ and their structure.
 The Distributed Information Management Layer subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

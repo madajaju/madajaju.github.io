@@ -70,26 +70,26 @@ and their structure.
 
 ### Classes
 
-* [Image](class-/edgemere/sml/Image)
-* [MultiCloud](class-/edgemere/sml/MultiCloud)
-* [RunScript](class-/edgemere/sml/RunScript)
-* [Service](class-/edgemere/sml/Service)
-* [ServiceTemplate](class-/edgemere/sml/ServiceTemplate)
-* [Servicelet](class-/edgemere/sml/Servicelet)
-* [Stack](class-/edgemere/sml/Stack)
-* [StackTemplate](class-/edgemere/sml/StackTemplate)
-* [Stacklet](class-/edgemere/sml/Stacklet)
-* [StackletDefinition](class-/edgemere/sml/StackletDefinition)
+* [Image](class-Image)
+* [MultiCloud](class-MultiCloud)
+* [RunScript](class-RunScript)
+* [Service](class-Service)
+* [ServiceTemplate](class-ServiceTemplate)
+* [Servicelet](class-Servicelet)
+* [Stack](class-Stack)
+* [StackTemplate](class-StackTemplate)
+* [Stacklet](class-Stacklet)
+* [StackletDefinition](class-StackletDefinition)
 
 
 ## Activities and Flows
 The Service Management Layer subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

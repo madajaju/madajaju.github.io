@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment test
-permalink: environment-.edgemere/diml/cds/ingress-test
+permalink: environment--edgemere/diml/cds/ingress-test
 ---
 
 ### test

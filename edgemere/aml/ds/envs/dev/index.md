@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment dev
-permalink: environment-.edgemere/aml/ds-dev
+permalink: environment--edgemere/aml/ds-dev
 ---
 
 ### dev

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment test
-permalink: environment-.edgemere/sa-test
+permalink: environment--edgemere/sa-test
 ---
 
 ### test

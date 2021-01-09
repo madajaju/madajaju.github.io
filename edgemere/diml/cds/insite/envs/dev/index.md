@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment dev
-permalink: environment-.edgemere/diml/cds/insite-dev
+permalink: environment--edgemere/diml/cds/insite-dev
 ---
 
 ### dev

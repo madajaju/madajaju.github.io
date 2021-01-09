@@ -58,19 +58,19 @@ and their structure.
 
 ### Classes
 
-* [Data](class-/edgemere/diml/dml/Data)
-* [DataReference](class-/edgemere/diml/dml/DataReference)
-* [DataStrategy](class-/edgemere/diml/dml/DataStrategy)
+* [Data](class-Data)
+* [DataReference](class-DataReference)
+* [DataStrategy](class-DataStrategy)
 
 
 ## Activities and Flows
 The Data Management Layer subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

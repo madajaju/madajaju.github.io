@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment prod
-permalink: environment-.edgemere/sa/pe-prod
+permalink: environment--edgemere/sa/pe-prod
 ---
 
 ### prod

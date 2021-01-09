@@ -60,20 +60,20 @@ and their structure.
 
 ### Classes
 
-* [CloudType](class-/edgemere/sml/cb/CloudType)
-* [ResourceCost](class-/edgemere/sml/cb/ResourceCost)
-* [ResourceInstanceType](class-/edgemere/sml/cb/ResourceInstanceType)
-* [ResourceMap](class-/edgemere/sml/cb/ResourceMap)
+* [CloudType](class-CloudType)
+* [ResourceCost](class-ResourceCost)
+* [ResourceInstanceType](class-ResourceInstanceType)
+* [ResourceMap](class-ResourceMap)
 
 
 ## Activities and Flows
 The Cloud Broker subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

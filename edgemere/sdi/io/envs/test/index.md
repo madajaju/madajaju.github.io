@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment test
-permalink: environment-.edgemere/sdi/io-test
+permalink: environment--edgemere/sdi/io-test
 ---
 
 ### test

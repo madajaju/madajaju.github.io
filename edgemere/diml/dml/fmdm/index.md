@@ -44,19 +44,19 @@ and their structure.
 
 ### Classes
 
-* [LineageMetaData](class-/edgemere/diml/dml/fmdm/LineageMetaData)
-* [MetaData](class-/edgemere/diml/dml/fmdm/MetaData)
-* [SourceMetaData](class-/edgemere/diml/dml/fmdm/SourceMetaData)
+* [LineageMetaData](class-LineageMetaData)
+* [MetaData](class-MetaData)
+* [SourceMetaData](class-SourceMetaData)
 
 
 ## Activities and Flows
 The Federated Meta Data Management subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

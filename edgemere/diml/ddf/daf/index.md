@@ -49,10 +49,10 @@ and their structure.
 The Data Adaptor Framework subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 
+|    |    |    |
 
 ### Messages Sent
 

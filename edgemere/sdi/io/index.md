@@ -51,12 +51,12 @@ and their structure.
 The Infrastructure Orchestrator subsystem provides the following activities and flows.
 
 ### Messages Handled
-
 | Message | Action | Description |
 |---|---|---|
 | request.selected | /sdi/io/evaluateRequest |  |
 | reservation.confirmed | /sdi/io/provision |  |
 
+|    |    |    |
 
 ### Messages Sent
 

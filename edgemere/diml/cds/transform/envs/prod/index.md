@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment prod
-permalink: environment-.edgemere/diml/cds/transform-prod
+permalink: environment--edgemere/diml/cds/transform-prod
 ---
 
 ### prod
