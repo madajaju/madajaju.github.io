@@ -1,9 +1,3 @@
----
-layout: default
-title: Index
-permalink: contents
----
-
 ### Top
 * [edgemere](./edgemere/index.md)
 
