@@ -1,98 +1,96 @@
-# Top Page
+---
+layout: default
+title: Index
+permalink: contents
+---
 
-* [top](./index.md)
-* [Parent](./Parent/index.md)
-* [Child](./Parent/Child/index.md)
-* [GrandChild](./Parent/Child/Grandchild/index.md)
-* [Section two anchor](#subsection-two)
-* [Section three anchor](#this-is-another-item)
-* [Section anchor](#this-is-an-anchor)
-* [Hello World](/gchild#hello-world)
+### Top
+* [edgemere](./edgemere/index.md)
 
-## Subsection two
-This is information about the page
+### Actors
+* [All Actors](actors)
+* [Actor](actor-actor)
+* [ApplicationDeveloper](actor-applicationdeveloper)
+* [ChiefDataOfficer](actor-cdo)
+* [DataAnalyst](actor-analyst)
+* [DataEngineer](actor-dataengineer)
+* [DataScientist](actor-datascientist)
+* [DataSteward](actor-datasteward)
+* [DevOpsEngineer](actor-devops)
+* [ITOperations](actor-itops)
+* [StackDeveloper](actor-stackdev)
 
-### This is another item
-asljklajfdsk
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
-lkdsafjlkdsajflka lfdsk jlfdsak jlfdsjl sadjlfdsakjlk,
+ 
+### Packages 
+* [Application Management Layer](package--edgemere-aml)
+  * [AI ML Services](package--edgemere-aml-ams)
+  * [Analytics Services](package--edgemere-aml-as)
+  * [Developer Services](package--edgemere-aml-ds)
+  * [Workflow Services](package--edgemere-aml-ws)
+* [Common Physical Layer](package--edgemere-cpl)
+  * [Device Agent](package--edgemere-cpl-da)
+  * [Device Manager](package--edgemere-cpl-dm)
+  * [Telemetry Aggregator](package--edgemere-cpl-ta)
+  * [Telemetry Consumer](package--edgemere-cpl-tc)
+  * [Telemetry Producer](package--edgemere-cpl-tp)
+* [Distributed Information Management Layer](package--edgemere-diml)
+  * [Common Data Service](package--edgemere-diml-cds)
+    * [Ingress Services](package--edgemere-diml-cds-ingress)
+    * [Insite Services](package--edgemere-diml-cds-insite)
+    * [Storage Services](package--edgemere-diml-cds-storage)
+    * [Transform Services](package--edgemere-diml-cds-transform)
+  * [Data Definition Framework](package--edgemere-diml-ddf)
+    * [Blue Print Management](package--edgemere-diml-ddf-bpm)
+    * [Data Adaptor Framework](package--edgemere-diml-ddf-daf)
+    * [Data Flow](package--edgemere-diml-ddf-df)
+    * [Data Repository](package--edgemere-diml-ddf-dr)
+  * [Data Management Layer](package--edgemere-diml-dml)
+    * [Data Controller](package--edgemere-diml-dml-dc)
+    * [Data Orchestrator](package--edgemere-diml-dml-do)
+    * [Federated Meta Data Management](package--edgemere-diml-dml-fmdm)
+    * [Governance Engine](package--edgemere-diml-dml-ge)
+* [Identity Aspect](package--edgemere-ia)
+* [Security Aspect](package--edgemere-sa)
+  * [Policy Engine](package--edgemere-sa-pe)
+* [Service Management Layer](package--edgemere-sml)
+  * [Cloud Broker](package--edgemere-sml-cb)
+  * [Environment Management](package--edgemere-sml-em)
+  * [Provision Engine](package--edgemere-sml-pe)
+  * [Service Controller](package--edgemere-sml-sc)
+  * [Service Orchestrator](package--edgemere-sml-so)
+  * [Service Repository](package--edgemere-sml-sr)
+* [Software Defined Infrastructure](package--edgemere-sdi)
+  * [Infrastructure Orchestrator](package--edgemere-sdi-io)
 
-### This is an anchor
+   
+### Use Cases  
+* [Manage AI Models](usecase--edgemere-aml-ManageAIModels)
+* [Manage Applications](usecase--edgemere-aml-ManageApplications)
+* [Manage Workloads](usecase--edgemere-aml-ManageWorkloads)
+* [Manage Data Center](usecase--edgemere-cpl-ManageDataCenter)
+* [Manage Infrastructure](usecase--edgemere-cpl-ManageInfrastructure)
+* [Manage Data](usecase--edgemere-diml-cds-ManageData)
+* [Manage Data Adaptors](usecase--edgemere-diml-ddf-ManageDataAdaptors)
+* [Manage Data Blue Prints](usecase--edgemere-diml-ddf-ManageDataBluePrints)
+* [Manage Data Pipeline](usecase--edgemere-diml-ddf-ManageDataPipeline)
+* [Manage Data Procedures](usecase--edgemere-diml-ddf-ManageDataProcedures)
+* [Manage Meta Data](usecase--edgemere-diml-ddf-ManageMetaData)
+* [Manage Data Instances](usecase--edgemere-diml-dml-do-ManageDataInstances)
+* [Manage Data Governance](usecase--edgemere-diml-dml-ManageDataGovernance)
+* [Manage Data Policies](usecase--edgemere-diml-dml-ManageDataPolicies)
+* [Manage Data Sources](usecase--edgemere-diml-dml-ManageDataSources)
+* [Manage Data Strategy](usecase--edgemere-diml-dml-ManageDataStrategy)
+* [Find Resources](usecase--edgemere-sml-cb-FindResources)
+* [ManageBilling](usecase--edgemere-sml-cb-ManageBilling)
+* [ManageCostModel](usecase--edgemere-sml-cb-ManageCostModel)
+* [Manage Multi Cloud](usecase--edgemere-sml-cb-ManageMultiCloud)
+* [Map Assets to Cloud](usecase--edgemere-sml-cb-MapAssetstoCloud)
+* [Map Services to Resources](usecase--edgemere-sml-cb-MapServicestoResources)
+* [Manage Environment](usecase--edgemere-sml-em-ManageEnvironment)
+* [Manage Stacks](usecase--edgemere-sml-so-ManageStacks)
+* [Manage Assets](usecase--edgemere-sml-sr-ManageAssets)
+* [Manage Clouds](usecase--edgemere-sml-ManageClouds)
+* [Manage Services](usecase--edgemere-sml-ManageServices)
+* [Manage Resources](usecase--edgemere-sdi-ManageResources)
+
+
