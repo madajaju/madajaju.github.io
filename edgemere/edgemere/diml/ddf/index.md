@@ -11,6 +11,9 @@ Data Definition Framework is a package that contains...
 
 ## Use Cases
 
+The following are the use cases of the Data Definition Framework subsystem. Each use case has primary and secondary scenarios
+that are elaborated in the use case descriptions.
+
 * [Manage Data Adaptors](usecase-ManageDataAdaptors)
 * [Manage Data Blue Prints](usecase-ManageDataBluePrints)
 * [Manage Data Pipeline](usecase-ManageDataPipeline)
@@ -21,6 +24,10 @@ Data Definition Framework is a package that contains...
 ![UseCase Diagram](./usecases.svg)
 
 ## Users
+
+The following are the actors of the Data Definition Framework subsystem. This can include people, other subsystems 
+inside the solution and even external subsystems. 
+
 * [DataEngineer](actor-dataengineer)
 * [DataScientist](actor-datascientist)
 * [ChiefDataOfficer](actor-cdo)
@@ -29,6 +36,7 @@ Data Definition Framework is a package that contains...
 ![User Interaction](./userinteraction.svg)
 
 ## Interface
+
 The subsystem has a REST, CLI, WebSocket, and Web interface. Use Cases and Scenarios can use any or all
 of the interfaces to perform the work that needs to be completed. The following  diagram shows how
 users interact with the system.
@@ -48,12 +56,16 @@ users interact with the system.
 
 
 ## Logical Artifacts
-The Data Model for the  Data Definition Framework shows how the different objects and classes of object interact
+
+The Data Model for the  Data Definition Framework subsystem shows how the different objects and classes of object interact
 and their structure.
 
 ![Sub Package Diagram](./subpackage.svg)
 
 ### Sub Packages
+
+The Data Definition Framework subsystem has sub packages as well. These subsystems are logical components to better
+organize the architecture and make it easier to analyze, understand, design, and implement.
 
 * [Blue Print Management](package--edgemere-diml-ddf-bpm)
 * [Data Adaptor Framework](package--edgemere-diml-ddf-daf)
@@ -64,6 +76,8 @@ and their structure.
 ![Logical Diagram](./logical.svg)
 
 ### Classes
+
+The following are the classes in the data model of the Data Definition Framework subsystem.
 
 * [DataAdaptor](class-DataAdaptor)
 * [DataAdaptorInstance](class-DataAdaptorInstance)
@@ -78,43 +92,41 @@ and their structure.
 * [DataSource](class-DataSource)
 
 
-## Activities and Flows
-The Data Definition Framework subsystem provides the following activities and flows.
-
-### Messages Handled
-| Message | Action | Description |
-|---|---|---|
-
-|    |    |    |
-
-### Messages Sent
-
-TBD
 
 ## Deployment Architecture
 
 This subsystem is deployed using micro-services as shown in the diagram below. The 'micro' module is
-used to implement the micro-services in the system.
-The subsystem also has an CLI, REST and Web Interface exposed through a sailajs application. The sailsjs
-application will interface with the micro-services and can monitor and drive work-flows through the mesh of
-micro-services.
+used to implement the micro-services in the system. The subsystem also has an CLI, REST and Web Interface
+exposed through a nodejs application. The nodejs application will interface with the micro-services and
+can monitor and drive work-flows through the mesh of micro-services. The deployment of the subsystem is 
+dependent on the environment it is deployed. This subsystem has the following environments:
+* [dev](environment--edgemere-diml-ddf-dev)
+* [test](environment--edgemere-diml-ddf-test)
+* [prod](environment--edgemere-diml-ddf-prod)
 
-![Deployment Image](./deployment.svg)
+
 
 ## Physical Architecture
 
-The Data Definition Framework subsystem is is physically laid out on a hybrid cloud infrastructure. Each microservice is shown
-how they connect to each other. All of the micro-services communicate to each other and the main app through a
-REST interface. A CLI, REST or Web interface for the app is how other subsystems or actors interact. Requests are
-forwarded to micro-services through the REST interface of each micro-service.
+The Data Definition Framework subsystem is physically laid out on a hybrid cloud infrastructure. Each microservice belongs
+to a secure micro-segmented network. All of the micro-services communicate to each other and the main app through a
+REST interface. A Command Line Interface (CLI), REST or Web User interface for the app is how other subsystems or actors 
+interact. Requests are forwarded to micro-services through the REST interface of each micro-service. The subsystem has
+the a unique layout based on the environment the physical space. The following are the environments for this
+subsystems.
+* [dev](environment--edgemere-diml-ddf-dev)
+* [test](environment--edgemere-diml-ddf-test)
+* [prod](environment--edgemere-diml-ddf-prod)
 
-![Physical Diagram](./physical.svg)
 
 ## Micro-Services
+
 These are the micro-services for the subsystem. The combination of the micro-services help implement
 the subsystem's logic.
 
+
 ### dev
+
 Detail information for the [dev environment](environment--edgemere-diml-ddf-dev)
 can be found [here](environment--edgemere-diml-ddf-dev)
 
@@ -123,7 +135,9 @@ Services in the dev environment
 * frontend : diml_ddf_web
 * gw : diml_ddf_gw
 
+
 ### test
+
 Detail information for the [test environment](environment--edgemere-diml-ddf-test)
 can be found [here](environment--edgemere-diml-ddf-test)
 
@@ -132,7 +146,9 @@ Services in the test environment
 * frontend : diml_ddf_web
 * gw : diml_ddf_gw
 
+
 ### prod
+
 Detail information for the [prod environment](environment--edgemere-diml-ddf-prod)
 can be found [here](environment--edgemere-diml-ddf-prod)
 
@@ -142,8 +158,21 @@ Services in the prod environment
 * gw : diml_ddf_gw
 
 
-## Interface Details
+## Activities and Flows
+The Data Definition Framework subsystem provides the following activities and flows that help satisfy the use
+cases and scenarios of the subsystem.
 
+
+
+
+### Messages Sent
+
+TBD
+
+## Interface Details
+The Data Definition Framework subsystem has a well defined interface. This interface can be accessed using a
+command line interface (CLI), REST interface, and Web user interface. This interface is how all other
+subsystems and actors can access the system.
 
 ### Action  edgemere diml ddf data govern
 
@@ -159,7 +188,6 @@ Description of the action
 
 
 
-
 ### Action  edgemere diml ddf data source name
 
 * REST - /edgemere/diml/ddf/data/source/name
@@ -171,7 +199,6 @@ Description of the action
 | Name | Type | Required | Description |
 |---|---|---|---|
 | attr1 | string |false | Description for the parameter |
-
 
 
 
@@ -192,7 +219,6 @@ Description of the action
 
 
 
-
 ### Action  edgemere diml ddf datablueprint list
 
 * REST - /edgemere/diml/ddf/datablueprint/list
@@ -204,7 +230,6 @@ Description of the action
 | Name | Type | Required | Description |
 |---|---|---|---|
 | attr1 | string |false | Description for the parameter |
-
 
 
 
@@ -222,7 +247,6 @@ Description of the action
 
 
 
-
 ### Action  edgemere diml ddf datadaptor list
 
 * REST - /edgemere/diml/ddf/datadaptor/list
@@ -234,7 +258,6 @@ Description of the action
 | Name | Type | Required | Description |
 |---|---|---|---|
 | attr1 | string |false | Description for the parameter |
-
 
 
 
@@ -252,7 +275,6 @@ Description of the action
 
 
 
-
 ### Action  edgemere diml ddf dataprocedure list
 
 * REST - /edgemere/diml/ddf/dataprocedure/list
@@ -264,7 +286,6 @@ Description of the action
 | Name | Type | Required | Description |
 |---|---|---|---|
 | attr1 | string |false | Description for the parameter |
-
 
 
 
@@ -280,7 +301,6 @@ Simulate data in the data source
 |---|---|---|---|
 | name | string |true | Name of the DataSource to simulate |
 | file | YAML |true | file that contains the data to simulate |
-
 
 
 
