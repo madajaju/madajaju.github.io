@@ -2,6 +2,8 @@
 layout: default
 title: Package edgemere
 permalink: package--edgemere
+has_children:
+nav_order: 2
 ---
 # edgemere
 

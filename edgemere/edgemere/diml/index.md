@@ -2,6 +2,8 @@
 layout: default
 title: Package Distributed Information Management Layer
 permalink: package--edgemere-diml
+has_children: true
+parent: edgemere
 ---
 # Distributed Information Management Layer
 

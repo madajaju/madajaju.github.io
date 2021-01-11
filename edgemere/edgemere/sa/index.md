@@ -2,6 +2,8 @@
 layout: default
 title: Package Security Aspect
 permalink: package--edgemere-sa
+has_children: true
+parent: edgemere
 ---
 # Security Aspect
 
