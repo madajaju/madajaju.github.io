@@ -1,18 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
 title: Conceptual Architectures
 description: Conceptual architectures for the digital recolution
 google_analytics: G-SDCPXLJ9YG
 
-edgemere-toc:
-  - title: Actors
-    subfolderitems:
-      - page: Actor
-        url: actor-actor
-      - page: DevOps
-        url: actor-devops
-  - title: Subsystems
-    subfolderitems:
-      - page: Application Management Layer
-        url: package--edgemere-aml
-      - page: Common Physical Layer
-        url: package--edgemere-cpl
