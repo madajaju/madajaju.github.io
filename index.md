@@ -1,7 +1,6 @@
 ---
 layout: default
 title: edgemere Overview
-permalink: index
 ---
 
 # edgemere

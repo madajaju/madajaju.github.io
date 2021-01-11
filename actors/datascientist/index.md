@@ -9,16 +9,6 @@ parent: All Actors
 
 Responsible for the architecture and development of data analytic models and solutions. They work closely with the Data engineer to deliver solutions to the Data Analyst.
 
-There are several users of the system. We first took a use case analysis approach to the architecture. First,
-identifying the actors/users of the system and building out how the actor uses the system? What their key objectives and
-goals are? and How they use the system? This list is not an exhaustive list of all actors of the system but are the
-primary actors.
-
-These actors are found in most organizations and there are several different organizational structures that can be
-employed. The key is to identify the people or organization that fits the different actors in the systems. The following
-is an example of a centralized organizational structure of the actors of the system.
-
-![Organization Layout](./orgchart.png)
 
 
 ## Use Cases
