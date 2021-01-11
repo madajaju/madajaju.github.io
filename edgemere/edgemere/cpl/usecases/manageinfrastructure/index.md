@@ -2,7 +2,7 @@
 layout: default
 title: Usecase Manage Infrastructure
 permalink: usecase-ManageInfrastructure
-parent: Usecases
+parent: usecases
 ---
 
 # Manage Infrastructure

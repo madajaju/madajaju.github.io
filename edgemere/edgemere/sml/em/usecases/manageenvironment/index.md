@@ -2,7 +2,7 @@
 layout: default
 title: Usecase Manage Environment
 permalink: usecase-ManageEnvironment
-parent: Usecases
+parent: usecases
 ---
 
 # Manage Environment

@@ -2,6 +2,7 @@
 layout: default
 title: Actor Actor
 permalink: actor-actor
+parent: All Actors
 ---
 
 # Actor

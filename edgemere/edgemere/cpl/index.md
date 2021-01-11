@@ -2,13 +2,8 @@
 layout: default
 title: Common Physical Layer
 permalink: package--edgemere-cpl
-
-parent: Common Physical Layer
-
-
-
+parent: edgemere
 has_children: true
-
 ---
 # Common Physical Layer
 

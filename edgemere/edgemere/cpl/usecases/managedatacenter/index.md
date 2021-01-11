@@ -2,7 +2,7 @@
 layout: default
 title: Usecase Manage Data Center
 permalink: usecase-ManageDataCenter
-parent: Usecases
+parent: usecases
 ---
 
 # Manage Data Center

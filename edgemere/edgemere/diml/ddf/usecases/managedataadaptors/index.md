@@ -2,7 +2,7 @@
 layout: default
 title: Usecase Manage Data Adaptors
 permalink: usecase-ManageDataAdaptors
-parent: Usecases
+parent: usecases
 ---
 
 # Manage Data Adaptors

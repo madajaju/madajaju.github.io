@@ -2,13 +2,8 @@
 layout: default
 title: Service Management Layer
 permalink: package--edgemere-sml
-
-parent: Service Management Layer
-
-
-
+parent: edgemere
 has_children: true
-
 ---
 # Service Management Layer
 

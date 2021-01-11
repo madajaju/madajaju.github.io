@@ -2,13 +2,8 @@
 layout: default
 title: Software Defined Infrastructure
 permalink: package--edgemere-sdi
-
-parent: Software Defined Infrastructure
-
-
-
+parent: edgemere
 has_children: true
-
 ---
 # Software Defined Infrastructure
 

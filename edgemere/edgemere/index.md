@@ -2,11 +2,7 @@
 layout: default
 title: edgemere
 permalink: package--edgemere
-
-
-
 has_children: true
-
 ---
 # edgemere
 

@@ -2,6 +2,7 @@
 layout: default
 title: Actor Application Developer
 permalink: actor-applicationdeveloper
+parent: All Actors
 ---
 
 # Application Developer

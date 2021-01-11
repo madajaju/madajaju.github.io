@@ -2,7 +2,7 @@
 layout: default
 title: Usecase Manage Data Blue Prints
 permalink: usecase-ManageDataBluePrints
-parent: Usecases
+parent: usecases
 ---
 
 # Manage Data Blue Prints

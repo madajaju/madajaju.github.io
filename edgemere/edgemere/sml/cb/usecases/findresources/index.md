@@ -2,7 +2,7 @@
 layout: default
 title: Usecase Find Resources
 permalink: usecase-FindResources
-parent: Usecases
+parent: usecases
 ---
 
 # Find Resources

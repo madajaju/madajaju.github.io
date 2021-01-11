@@ -2,7 +2,7 @@
 layout: default
 title: Usecase Manage Assets
 permalink: usecase-ManageAssets
-parent: Usecases
+parent: usecases
 ---
 
 # Manage Assets

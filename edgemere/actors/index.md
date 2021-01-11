@@ -2,6 +2,7 @@
 layout: default
 title: All Actors
 permalink: all-actors
+has_children: true
 ---
 # Actors
 

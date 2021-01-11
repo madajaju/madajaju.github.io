@@ -2,7 +2,7 @@
 layout: default
 title: Usecase Manage Services
 permalink: usecase-ManageServices
-parent: Usecases
+parent: usecases
 ---
 
 # Manage Services
