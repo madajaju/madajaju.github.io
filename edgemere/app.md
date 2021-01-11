@@ -1,5 +1,8 @@
 ---
-layout: default title: Edgemere Top Level Architecture permalink: edgemere
+layout: default 
+title: Edgemere Top Level Architecture 
+permalink: edgemere
+sidebar: edgemere-toc
 ---
 
 # edgemere
