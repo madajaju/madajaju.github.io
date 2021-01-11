@@ -2,6 +2,7 @@
 layout: default
 title: Actor DevOps Engineer
 permalink: actor-devops
+parent: All Actors
 ---
 
 # DevOps Engineer

@@ -2,6 +2,7 @@
 layout: default
 title: Actor Data Scientist
 permalink: actor-datascientist
+parent: All Actors
 ---
 
 # Data Scientist

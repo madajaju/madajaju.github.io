@@ -2,6 +2,7 @@
 layout: default
 title: Actor Stack Developer
 permalink: actor-stackdev
+parent: All Actors
 ---
 
 # Stack Developer
