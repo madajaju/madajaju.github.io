@@ -2,7 +2,7 @@
 layout: default
 title: edgemere
 permalink: package--edgemere
-has_children:
+has_children: true
 nav_order: 2
 ---
 # edgemere
