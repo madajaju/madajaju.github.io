@@ -2,6 +2,7 @@
 layout: default
 title: Usecase Manage Data Policies
 permalink: usecase-ManageDataPolicies
+parent: Usecases
 ---
 
 # Manage Data Policies

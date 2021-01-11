@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Telemetry Aggregator
+title: Telemetry Aggregator
 permalink: package--edgemere-cpl-ta
+
+parent: Telemetry Aggregator
+
+
+grand_parent: [object Object]
+
+
 ---
 # Telemetry Aggregator
 

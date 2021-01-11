@@ -2,6 +2,7 @@
 layout: default
 title: Usecase ManageBilling
 permalink: usecase-ManageBilling
+parent: Usecases
 ---
 
 # ManageBilling

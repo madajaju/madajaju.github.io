@@ -2,6 +2,7 @@
 layout: default
 title: Usecase Map Services to Resources
 permalink: usecase-MapServicestoResources
+parent: Usecases
 ---
 
 # Map Services to Resources

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Device Manager
+title: Device Manager
 permalink: package--edgemere-cpl-dm
+
+parent: Device Manager
+
+
+grand_parent: [object Object]
+
+
 ---
 # Device Manager
 

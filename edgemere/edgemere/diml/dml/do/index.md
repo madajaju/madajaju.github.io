@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Data Orchestrator
+title: Data Orchestrator
 permalink: package--edgemere-diml-dml-do
+
+parent: Data Orchestrator
+
+
+grand_parent: [object Object]
+
+
 ---
 # Data Orchestrator
 

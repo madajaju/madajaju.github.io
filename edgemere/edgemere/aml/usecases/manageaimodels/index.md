@@ -2,6 +2,7 @@
 layout: default
 title: Usecase Manage AI Models
 permalink: usecase-ManageAIModels
+parent: Usecases
 ---
 
 # Manage AI Models

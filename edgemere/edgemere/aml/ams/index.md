@@ -1,9 +1,14 @@
 ---
 layout: default
-title: Package AI ML Services
+title: AI ML Services
 permalink: package--edgemere-aml-ams
-has_children: true
-parent: Package Application Management Layer
+
+parent: AI ML Services
+
+
+grand_parent: [object Object]
+
+
 ---
 # AI ML Services
 

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Ingress Services
+title: Ingress Services
 permalink: package--edgemere-diml-cds-ingress
+
+parent: Ingress Services
+
+
+grand_parent: [object Object]
+
+
 ---
 # Ingress Services
 

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Data Adaptor Framework
+title: Data Adaptor Framework
 permalink: package--edgemere-diml-ddf-daf
+
+parent: Data Adaptor Framework
+
+
+grand_parent: [object Object]
+
+
 ---
 # Data Adaptor Framework
 

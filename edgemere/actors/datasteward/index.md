@@ -2,7 +2,6 @@
 layout: default
 title: Actor Data Steward
 permalink: actor-datasteward
-parent: All Actors
 ---
 
 # Data Steward

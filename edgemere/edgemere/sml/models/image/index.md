@@ -2,6 +2,7 @@
 layout: default
 title: Class Image
 permalink: class-Image
+parent: classes
 ---
 
 # Image

@@ -2,6 +2,7 @@
 layout: default
 title: Class DataReservation
 permalink: class-DataReservation
+parent: classes
 ---
 
 # DataReservation

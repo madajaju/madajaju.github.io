@@ -2,6 +2,7 @@
 layout: default
 title: Class ServiceTemplate
 permalink: class-ServiceTemplate
+parent: classes
 ---
 
 # ServiceTemplate

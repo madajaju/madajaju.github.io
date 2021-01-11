@@ -2,6 +2,7 @@
 layout: default
 title: Class LineageMetaData
 permalink: class-LineageMetaData
+parent: classes
 ---
 
 # LineageMetaData

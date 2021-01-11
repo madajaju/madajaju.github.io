@@ -2,6 +2,7 @@
 layout: default
 title: Class AcceleratorHardware
 permalink: class-AcceleratorHardware
+parent: classes
 ---
 
 # AcceleratorHardware

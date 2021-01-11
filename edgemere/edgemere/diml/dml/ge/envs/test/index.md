@@ -2,6 +2,7 @@
 layout: default
 title: Environment test
 permalink: environment--edgemere-diml-dml-ge-test
+nav_exclude: true
 ---
 
 ### test

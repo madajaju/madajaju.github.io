@@ -2,6 +2,7 @@
 layout: default
 title: Class DataFlow
 permalink: class-DataFlow
+parent: classes
 ---
 
 # DataFlow

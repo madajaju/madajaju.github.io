@@ -2,6 +2,7 @@
 layout: default
 title: Class MetaData
 permalink: class-MetaData
+parent: classes
 ---
 
 # MetaData

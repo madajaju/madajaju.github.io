@@ -2,7 +2,6 @@
 layout: default
 title: Actor DataEngineer
 permalink: actor-dataengineer
-parent: All Actors
 ---
 
 # DataEngineer

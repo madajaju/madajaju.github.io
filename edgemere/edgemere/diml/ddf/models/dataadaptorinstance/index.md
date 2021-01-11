@@ -2,6 +2,7 @@
 layout: default
 title: Class DataAdaptorInstance
 permalink: class-DataAdaptorInstance
+parent: classes
 ---
 
 # DataAdaptorInstance

@@ -2,6 +2,7 @@
 layout: default
 title: Usecase ManageCostModel
 permalink: usecase-ManageCostModel
+parent: Usecases
 ---
 
 # ManageCostModel

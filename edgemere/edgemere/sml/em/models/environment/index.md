@@ -2,6 +2,7 @@
 layout: default
 title: Class Environment
 permalink: class-Environment
+parent: classes
 ---
 
 # Environment

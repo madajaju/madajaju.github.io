@@ -2,6 +2,7 @@
 layout: default
 title: Environment test
 permalink: environment--edgemere-cpl-da-test
+nav_exclude: true
 ---
 
 ### test

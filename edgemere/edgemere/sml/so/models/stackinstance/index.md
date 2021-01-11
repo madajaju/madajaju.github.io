@@ -2,6 +2,7 @@
 layout: default
 title: Class StackInstance
 permalink: class-StackInstance
+parent: classes
 ---
 
 # StackInstance

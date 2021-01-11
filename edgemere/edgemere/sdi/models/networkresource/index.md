@@ -2,6 +2,7 @@
 layout: default
 title: Class NetworkResource
 permalink: class-NetworkResource
+parent: classes
 ---
 
 # NetworkResource

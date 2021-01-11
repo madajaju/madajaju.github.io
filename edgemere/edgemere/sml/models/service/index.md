@@ -2,6 +2,7 @@
 layout: default
 title: Class Service
 permalink: class-Service
+parent: classes
 ---
 
 # Service

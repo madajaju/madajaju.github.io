@@ -2,6 +2,7 @@
 layout: default
 title: Class ResourceMap
 permalink: class-ResourceMap
+parent: classes
 ---
 
 # ResourceMap

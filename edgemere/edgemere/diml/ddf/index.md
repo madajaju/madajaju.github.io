@@ -1,7 +1,16 @@
 ---
 layout: default
-title: Package Data Definition Framework
+title: Data Definition Framework
 permalink: package--edgemere-diml-ddf
+
+parent: Data Definition Framework
+
+
+grand_parent: [object Object]
+
+
+has_children: true
+
 ---
 # Data Definition Framework
 

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Service Orchestrator
+title: Service Orchestrator
 permalink: package--edgemere-sml-so
+
+parent: Service Orchestrator
+
+
+grand_parent: [object Object]
+
+
 ---
 # Service Orchestrator
 

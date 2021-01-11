@@ -2,7 +2,6 @@
 layout: default
 title: Actor IT Operations
 permalink: actor-itops
-parent: All Actors
 ---
 
 # IT Operations

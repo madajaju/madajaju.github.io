@@ -2,6 +2,7 @@
 layout: default
 title: Class Cloud
 permalink: class-Cloud
+parent: classes
 ---
 
 # Cloud

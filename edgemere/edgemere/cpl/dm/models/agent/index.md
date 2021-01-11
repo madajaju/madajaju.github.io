@@ -2,6 +2,7 @@
 layout: default
 title: Class Agent
 permalink: class-Agent
+parent: classes
 ---
 
 # Agent

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Policy Engine
+title: Policy Engine
 permalink: package--edgemere-sa-pe
+
+parent: Policy Engine
+
+
+grand_parent: [object Object]
+
+
 ---
 # Policy Engine
 

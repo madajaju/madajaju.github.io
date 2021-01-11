@@ -2,6 +2,7 @@
 layout: default
 title: Class DataSource
 permalink: class-DataSource
+parent: classes
 ---
 
 # DataSource

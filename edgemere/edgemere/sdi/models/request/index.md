@@ -2,6 +2,7 @@
 layout: default
 title: Class Request
 permalink: class-Request
+parent: classes
 ---
 
 # Request

@@ -2,6 +2,7 @@
 layout: default
 title: Class Device
 permalink: class-Device
+parent: classes
 ---
 
 # Device

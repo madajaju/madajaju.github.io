@@ -2,6 +2,7 @@
 layout: default
 title: Class MetricConsumeable
 permalink: class-MetricConsumeable
+parent: classes
 ---
 
 # MetricConsumeable

@@ -2,6 +2,7 @@
 layout: default
 title: Class ComputeHardware
 permalink: class-ComputeHardware
+parent: classes
 ---
 
 # ComputeHardware

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Environment Management
+title: Environment Management
 permalink: package--edgemere-sml-em
+
+parent: Environment Management
+
+
+grand_parent: [object Object]
+
+
 ---
 # Environment Management
 

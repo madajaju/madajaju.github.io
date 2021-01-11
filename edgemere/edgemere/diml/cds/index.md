@@ -1,7 +1,16 @@
 ---
 layout: default
-title: Package Common Data Service
+title: Common Data Service
 permalink: package--edgemere-diml-cds
+
+parent: Common Data Service
+
+
+grand_parent: [object Object]
+
+
+has_children: true
+
 ---
 # Common Data Service
 

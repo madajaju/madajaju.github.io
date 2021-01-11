@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Governance Engine
+title: Governance Engine
 permalink: package--edgemere-diml-dml-ge
+
+parent: Governance Engine
+
+
+grand_parent: [object Object]
+
+
 ---
 # Governance Engine
 

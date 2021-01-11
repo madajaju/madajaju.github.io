@@ -2,6 +2,7 @@
 layout: default
 title: Class Stack
 permalink: class-Stack
+parent: classes
 ---
 
 # Stack

@@ -2,6 +2,7 @@
 layout: default
 title: Class AggregatedDevice
 permalink: class-AggregatedDevice
+parent: classes
 ---
 
 # AggregatedDevice

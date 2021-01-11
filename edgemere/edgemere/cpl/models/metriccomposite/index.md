@@ -2,6 +2,7 @@
 layout: default
 title: Class MetricComposite
 permalink: class-MetricComposite
+parent: classes
 ---
 
 # MetricComposite

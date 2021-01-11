@@ -2,6 +2,7 @@
 layout: default
 title: Class MetricAttribute
 permalink: class-MetricAttribute
+parent: classes
 ---
 
 # MetricAttribute

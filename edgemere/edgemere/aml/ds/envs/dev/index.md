@@ -2,6 +2,7 @@
 layout: default
 title: Environment dev
 permalink: environment--edgemere-aml-ds-dev
+nav_exclude: true
 ---
 
 ### dev

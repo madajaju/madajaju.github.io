@@ -2,6 +2,7 @@
 layout: default
 title: Usecase Manage Multi Cloud
 permalink: usecase-ManageMultiCloud
+parent: Usecases
 ---
 
 # Manage Multi Cloud

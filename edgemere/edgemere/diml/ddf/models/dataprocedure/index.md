@@ -2,6 +2,7 @@
 layout: default
 title: Class DataProcedure
 permalink: class-DataProcedure
+parent: classes
 ---
 
 # DataProcedure

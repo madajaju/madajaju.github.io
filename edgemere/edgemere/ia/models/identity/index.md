@@ -2,6 +2,7 @@
 layout: default
 title: Class Identity
 permalink: class-Identity
+parent: classes
 ---
 
 # Identity

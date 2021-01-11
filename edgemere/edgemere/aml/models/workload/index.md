@@ -2,6 +2,7 @@
 layout: default
 title: Class Workload
 permalink: class-Workload
+parent: classes
 ---
 
 # Workload

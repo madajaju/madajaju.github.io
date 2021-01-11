@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Insite Services
+title: Insite Services
 permalink: package--edgemere-diml-cds-insite
+
+parent: Insite Services
+
+
+grand_parent: [object Object]
+
+
 ---
 # Insite Services
 

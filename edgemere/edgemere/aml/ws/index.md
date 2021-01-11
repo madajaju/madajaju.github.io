@@ -1,8 +1,14 @@
 ---
 layout: default
-title: Package Workflow Services
+title: Workflow Services
 permalink: package--edgemere-aml-ws
-parent: Package Application Management Layer
+
+parent: Workflow Services
+
+
+grand_parent: [object Object]
+
+
 ---
 # Workflow Services
 

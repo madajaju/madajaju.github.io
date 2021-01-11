@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Blue Print Management
+title: Blue Print Management
 permalink: package--edgemere-diml-ddf-bpm
+
+parent: Blue Print Management
+
+
+grand_parent: [object Object]
+
+
 ---
 # Blue Print Management
 

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Federated Meta Data Management
+title: Federated Meta Data Management
 permalink: package--edgemere-diml-dml-fmdm
+
+parent: Federated Meta Data Management
+
+
+grand_parent: [object Object]
+
+
 ---
 # Federated Meta Data Management
 

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Cloud Broker
+title: Cloud Broker
 permalink: package--edgemere-sml-cb
+
+parent: Cloud Broker
+
+
+grand_parent: [object Object]
+
+
 ---
 # Cloud Broker
 

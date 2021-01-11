@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Package Identity Aspect
+title: Identity Aspect
 permalink: package--edgemere-ia
-has_children: true
-parent: edgemere
+
+parent: Identity Aspect
+
+
+
 ---
 # Identity Aspect
 

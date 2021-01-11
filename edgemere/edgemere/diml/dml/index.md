@@ -1,7 +1,16 @@
 ---
 layout: default
-title: Package Data Management Layer
+title: Data Management Layer
 permalink: package--edgemere-diml-dml
+
+parent: Data Management Layer
+
+
+grand_parent: [object Object]
+
+
+has_children: true
+
 ---
 # Data Management Layer
 

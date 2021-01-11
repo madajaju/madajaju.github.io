@@ -2,6 +2,7 @@
 layout: default
 title: Class AcceleratorResource
 permalink: class-AcceleratorResource
+parent: classes
 ---
 
 # AcceleratorResource

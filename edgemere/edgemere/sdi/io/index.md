@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Infrastructure Orchestrator
+title: Infrastructure Orchestrator
 permalink: package--edgemere-sdi-io
+
+parent: Infrastructure Orchestrator
+
+
+grand_parent: [object Object]
+
+
 ---
 # Infrastructure Orchestrator
 

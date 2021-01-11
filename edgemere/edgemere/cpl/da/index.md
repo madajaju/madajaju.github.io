@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Device Agent
+title: Device Agent
 permalink: package--edgemere-cpl-da
+
+parent: Device Agent
+
+
+grand_parent: [object Object]
+
+
 ---
 # Device Agent
 

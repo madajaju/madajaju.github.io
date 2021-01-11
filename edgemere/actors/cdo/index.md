@@ -2,7 +2,6 @@
 layout: default
 title: Actor Chief Data Officer
 permalink: actor-cdo
-parent: All Actors
 ---
 
 # Chief Data Officer

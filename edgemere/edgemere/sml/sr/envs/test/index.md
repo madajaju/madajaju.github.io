@@ -2,6 +2,7 @@
 layout: default
 title: Environment test
 permalink: environment--edgemere-sml-sr-test
+nav_exclude: true
 ---
 
 ### test

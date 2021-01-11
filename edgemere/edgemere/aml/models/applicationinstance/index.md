@@ -2,6 +2,7 @@
 layout: default
 title: Class ApplicationInstance
 permalink: class-ApplicationInstance
+parent: classes
 ---
 
 # ApplicationInstance

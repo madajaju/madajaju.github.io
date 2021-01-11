@@ -2,6 +2,7 @@
 layout: default
 title: Class ComputeResource
 permalink: class-ComputeResource
+parent: classes
 ---
 
 # ComputeResource

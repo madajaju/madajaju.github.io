@@ -2,6 +2,7 @@
 layout: default
 title: Usecase Manage Data Strategy
 permalink: usecase-ManageDataStrategy
+parent: Usecases
 ---
 
 # Manage Data Strategy

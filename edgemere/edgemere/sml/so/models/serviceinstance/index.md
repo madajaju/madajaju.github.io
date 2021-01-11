@@ -2,6 +2,7 @@
 layout: default
 title: Class ServiceInstance
 permalink: class-ServiceInstance
+parent: classes
 ---
 
 # ServiceInstance

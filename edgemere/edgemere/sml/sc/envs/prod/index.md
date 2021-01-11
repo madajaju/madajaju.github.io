@@ -2,6 +2,7 @@
 layout: default
 title: Environment prod
 permalink: environment--edgemere-sml-sc-prod
+nav_exclude: true
 ---
 
 ### prod

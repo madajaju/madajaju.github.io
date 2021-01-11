@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Data Controller
+title: Data Controller
 permalink: package--edgemere-diml-dml-dc
+
+parent: Data Controller
+
+
+grand_parent: [object Object]
+
+
 ---
 # Data Controller
 

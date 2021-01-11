@@ -2,7 +2,6 @@
 layout: default
 title: Actor Data Analyst
 permalink: actor-analyst
-parent: All Actors
 ---
 
 # Data Analyst

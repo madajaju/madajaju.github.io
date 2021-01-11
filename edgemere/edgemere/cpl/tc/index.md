@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Telemetry Consumer
+title: Telemetry Consumer
 permalink: package--edgemere-cpl-tc
+
+parent: Telemetry Consumer
+
+
+grand_parent: [object Object]
+
+
 ---
 # Telemetry Consumer
 

@@ -2,6 +2,7 @@
 layout: default
 title: Class Data
 permalink: class-Data
+parent: classes
 ---
 
 # Data

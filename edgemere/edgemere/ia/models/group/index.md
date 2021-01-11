@@ -2,6 +2,7 @@
 layout: default
 title: Class Group
 permalink: class-Group
+parent: classes
 ---
 
 # Group

@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Data Repository
+title: Data Repository
 permalink: package--edgemere-diml-ddf-dr
+
+parent: Data Repository
+
+
+grand_parent: [object Object]
+
+
 ---
 # Data Repository
 

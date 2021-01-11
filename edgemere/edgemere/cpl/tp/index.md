@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Package Telemetry Producer
+title: Telemetry Producer
 permalink: package--edgemere-cpl-tp
+
+parent: Telemetry Producer
+
+
+grand_parent: [object Object]
+
+
 ---
 # Telemetry Producer
 
