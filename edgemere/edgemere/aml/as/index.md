@@ -2,6 +2,7 @@
 layout: default
 title: Package Analytics Services
 permalink: package--edgemere-aml-as
+parent: Package Application Management Layer
 ---
 # Analytics Services
 
